@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.heading{
+
+  font-weight: bold;
+ margin-left: 80px;
+  color: lightskyblue;
+}
+
+.btn{
+
+  margin-left: 70px;
+}
+.head{
+  font-weight: bold;
+   color: lightskyblue;
+   text-align: center;
+}
+
+.table{
+
+  color: lightgray;
+}
+
+.demo2{
+
+    margin-left: 100px;
+}
+
+.head1{
+  font-weight: bold;
+   color: lightskyblue;
+   margin-left: 200px;
+}
+
+
+
+
+
